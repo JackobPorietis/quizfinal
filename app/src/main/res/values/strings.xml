@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz_Final</string>
+    <string name="hello">Hello! I am pleased to see you in my app!
+        In this app you will need to answer 10 questions about Latvia.
+        Be ready and start Quiz about Latvia!
+    </string>
+    <string name="_0">0</string>
+    <string name="next">Next</string>
+    <string name="_12">12</string>
+    <string name="_6">6</string>
+    <string name="_3">3</string>
+    <string name="_9">9</string>
+    <string name="_160cm">160cm</string>
+    <string name="_180cm">180cm</string>
+    <string name="_170cm">170cm</string>
+    <string name="_64_589_km">64 589 km²</string>
+    <string name="_89_329_km">89 329 km²</string>
+    <string name="sl_teres_national_park">Slīteres National park</string>
+    <string name="gaujas_nationa_park">Gaujas Nationa park</string>
+    <string name="emeru_national_park">Ķemeru National park</string>
+    <string name="r_ga">Rīga</string>
+    <string name="sigulda">Sigulda</string>
+    <string name="hockey">Hockey</string>
+    <string name="soccker">Soccker</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="_50">50%</string>
+    <string name="_55">55%</string>
+    <string name="milk">Milk</string>
+    <string name="beer">Beer</string>
+    <string name="ventas_rumba">Ventas Rumba</string>
+    <string name="veldzes">Veldzes</string>
+    <string name="abavas_rumba">Abavas rumba</string>
+    <string name="zigfr_ds_anna_merovics">Zigfrīds Anna Meierovics</string>
+    <string name="imants_rundzins">Imants Rundzins</string>
+    <string name="jackob_draumalis">Jackob Draumalis</string>
+    <string name="jacob_davis">Jacob Davis</string>
+    <string name="yey">, Yey, you just finished my first quiz app!!</string>
+    <string name="result_page">Result page</string>
+    <string name="final_result">Final Result</string>
+</resources>
