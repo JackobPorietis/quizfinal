@@ -196,15 +196,18 @@
                     android:layout_weight="1"
                     android:text="@string/_12" />
 
-                <Button
+               <Button
                     android:id="@+id/btnDisplay"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="24dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="24dp"
                     android:layout_weight="1"
                     android:background="#89DA59"
+                    android:focusable="true"
                     android:text="@string/next" />
-
             </RadioGroup>
 
         </LinearLayout>
